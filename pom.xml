@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<docker.image.prefix>capsule</docker.image.prefix>
+        <docker.image.prefix>192.168.0.12/jrj</docker.image.prefix>
 	</properties>
 
 	<dependencies>
